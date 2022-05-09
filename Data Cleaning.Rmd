@@ -1,0 +1,10 @@
+---
+title: "DataClean"
+author: "Min Ruan"
+date: "5/9/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
